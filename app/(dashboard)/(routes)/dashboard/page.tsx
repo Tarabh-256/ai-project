@@ -1,12 +1,8 @@
-import { UserButton } from "@clerk/nextjs";
 
 const dashboard = ()=>{
     return(
         <div>
-        <h1>Dashboard Page (Protected)</h1>
-        <div>
-            <UserButton />
-        </div>
+        <h1 className="flex justify-center items-center relative">Dashboard Page (Protected)</h1>
         </div>
     )
 }
