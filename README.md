@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Project Screenshot
+# 1 Landing Page #
+![landin](https://github.com/user-attachments/assets/947a0097-4bb0-4755-8466-d4644b9e1801)
+# 2 Dashboard Page with Sidebar #
+![landing_page](https://github.com/user-attachments/assets/134beaea-5d77-4930-af24-50775a8f6f81)
+
 ## Getting Started
 
 First, run the development server:
@@ -20,17 +26,15 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+# Usage Library 
+## 1 shadcn/ui ##
 
-To learn more about Next.js, take a look at the following resources:
+Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 2 Lucide-react ##
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+ Lucide is an open-source icon library that provides 1000+ vector (svg) files for
+ displaying icons and symbols in digital and non-digital projects. The library aims
+ to make it easier for designers and developers to incorporate icons into their projects
+ by providing several official packages to make it easier to use these icons in your project.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
